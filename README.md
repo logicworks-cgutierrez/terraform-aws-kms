@@ -1,6 +1,7 @@
-# terraform-aws-kms
-
 <!-- BEGIN_TF_DOCS -->
+# terraform-aws-kms
+Terraform module to create a KMS key and key alias
+
 ## Requirements
 
 No requirements.
